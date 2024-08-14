@@ -4,8 +4,8 @@ import 'dart:js';
 import 'dart:js_util';
 import 'dart:typed_data';
 
-import 'package:isar/isar.dart';
-import 'package:isar/src/web/query_build.dart';
+import 'package:isar_web/isar.dart';
+import 'package:isar_web/src/web/query_build.dart';
 import 'package:meta/dart2js.dart';
 
 import 'bindings.dart';

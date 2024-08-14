@@ -1,5 +1,5 @@
-import 'package:isar/src/common/isar_link_common.dart';
-import 'package:isar/src/web/bindings.dart';
+import 'package:isar_web/src/common/isar_link_common.dart';
+import 'package:isar_web/src/web/bindings.dart';
 
 import 'isar_collection_impl.dart';
 import 'isar_web.dart';

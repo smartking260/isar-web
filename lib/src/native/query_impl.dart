@@ -4,7 +4,7 @@ import 'dart:isolate';
 import 'dart:typed_data';
 
 import 'package:ffi/ffi.dart';
-import 'package:isar/isar.dart';
+import 'package:isar_web/isar.dart';
 
 import 'bindings.dart';
 import 'isar_collection_impl.dart';

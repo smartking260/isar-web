@@ -3,7 +3,7 @@
 import 'dart:ffi';
 
 import 'package:ffi/ffi.dart';
-import 'package:isar/isar.dart';
+import 'package:isar_web/isar.dart';
 
 import 'isar_collection_impl.dart';
 import 'isar_core.dart';

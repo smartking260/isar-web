@@ -3,9 +3,9 @@
 import 'dart:js_util';
 import 'dart:typed_data';
 
-import 'package:isar/isar.dart';
-import 'package:isar/src/isar_native_interface.dart';
-import 'package:isar/src/web/isar_link_impl.dart';
+import 'package:isar_web/isar.dart';
+import 'package:isar_web/src/isar_native_interface.dart';
+import 'package:isar_web/src/web/isar_link_impl.dart';
 import 'package:meta/dart2js.dart';
 import 'package:meta/meta.dart';
 

@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:isar/isar.dart';
+import 'package:isar_web/isar.dart';
 
 abstract class IsarLinkBaseImpl<OBJ> implements IsarLinkBase<OBJ> {
   var _initialized = false;

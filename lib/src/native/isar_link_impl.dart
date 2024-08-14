@@ -1,6 +1,6 @@
 import 'dart:ffi';
 
-import 'package:isar/src/common/isar_link_common.dart';
+import 'package:isar_web/src/common/isar_link_common.dart';
 
 import 'isar_collection_impl.dart';
 import 'isar_core.dart';

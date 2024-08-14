@@ -1,7 +1,7 @@
 import 'dart:ffi';
 
 import 'package:ffi/ffi.dart';
-import 'package:isar/src/native/isar_core.dart';
+import 'package:isar_web/src/native/isar_core.dart';
 
 import 'binary_reader.dart';
 import 'binary_writer.dart';

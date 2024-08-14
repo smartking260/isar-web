@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'dart:js';
 import 'dart:typed_data';
 
-import 'package:isar/isar.dart';
-import 'package:isar/src/web/bindings.dart';
+import 'package:isar_web/isar.dart';
+import 'package:isar_web/src/web/bindings.dart';
 
 import 'isar_collection_impl.dart';
 import 'isar_web.dart';

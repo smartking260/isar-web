@@ -1,13 +1,13 @@
 import 'dart:ffi';
 import 'dart:typed_data';
 
-import 'package:isar/isar.dart';
-import 'package:isar/src/isar_native_interface.dart';
-import 'package:isar/src/native/binary_reader.dart';
-import 'package:isar/src/native/binary_writer.dart';
-import 'package:isar/src/native/isar_core.dart';
-import 'package:isar/src/native/isar_link_impl.dart';
-import 'package:isar/src/native/open.dart';
+import 'package:isar_web/isar.dart';
+import 'package:isar_web/src/isar_native_interface.dart';
+import 'package:isar_web/src/native/binary_reader.dart';
+import 'package:isar_web/src/native/binary_writer.dart';
+import 'package:isar_web/src/native/isar_core.dart';
+import 'package:isar_web/src/native/isar_link_impl.dart';
+import 'package:isar_web/src/native/open.dart';
 import 'package:meta/meta.dart';
 
 import 'bindings.dart';

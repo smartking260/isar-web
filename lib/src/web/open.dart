@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:html';
 import 'dart:js_util';
 
-import 'package:isar/isar.dart';
+import 'package:isar_web/isar.dart';
 
 import 'bindings.dart';
 import 'isar_collection_impl.dart';

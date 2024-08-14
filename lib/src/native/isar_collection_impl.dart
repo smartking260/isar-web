@@ -5,8 +5,8 @@ import 'dart:isolate';
 import 'dart:typed_data';
 
 import 'package:ffi/ffi.dart';
-import 'package:isar/isar.dart';
-import 'package:isar/src/native/isar_core.dart';
+import 'package:isar_web/isar.dart';
+import 'package:isar_web/src/native/isar_core.dart';
 
 import 'binary_reader.dart';
 import 'bindings.dart';

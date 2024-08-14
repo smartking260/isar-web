@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'dart:typed_data';
 
-import 'package:isar/src/native/isar_core.dart';
+import 'package:isar_web/src/native/isar_core.dart';
 import 'package:meta/meta.dart';
 
 /// @nodoc

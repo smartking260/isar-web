@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:html';
 
-import 'package:isar/isar.dart';
+import 'package:isar_web/isar.dart';
 
 import 'bindings.dart';
 import 'isar_web.dart';
